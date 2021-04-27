@@ -31,3 +31,8 @@ ECMAScript, or ES, is a standardized version of JavaScript. Because all major br
 Most of the JavaScript you've learned up to this point was in ES5 (ECMAScript 5), which was finalized in 2009. While you can still write programs in ES5, JavaScript is always evolving, and new features are released every year.
 
 ES6, released in 2015, added many powerful new features to the language. In this module, you'll learn these new features, including let and const, arrow functions, classes, promises, and modules.
+
+## Regular Expressions
+Regular expressions, often shortened to "regex" or "regexp", are patterns that help programmers match, search, and replace text. Regular expressions are very powerful, but can be hard to read because they use special characters to make more complex, flexible matches.
+
+In this course, you'll learn how to use special characters, capture groups, positive and negative lookaheads, and other techniques to match any text you want.
