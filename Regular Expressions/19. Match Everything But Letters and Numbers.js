@@ -20,6 +20,6 @@ Use the shorthand character class \W to count the number of non-alphanumeric cha
 
 /* --------------------------------------- EXAMPLE -------------------------------------------------- */
 
-let myString = "freeCodeCamp";
-let fccRegex = /freeCodeCamp/i; // Change this line
-let result = fccRegex.test(myString);
+let quoteSample = "The five boxing wizards jump quickly.";
+let nonAlphabetRegex = /\W/g; // Change this line
+let result = quoteSample.match(nonAlphabetRegex).length;
