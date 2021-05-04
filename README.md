@@ -16,10 +16,10 @@ Along the way, you'll also learn two important programing styles or paradigms: O
 * [Debugging.](https://github.com/modhtanmay/JavaScript-Algorithms-and-DataStructures/tree/master/04.%20Debugging)
 * [Basic Data Structures.](https://github.com/modhtanmay/JavaScript-Algorithms-and-DataStructures/tree/master/05.%20Basic%20Data%20Structures)
 * [Basic Algorithm Scripting.](https://github.com/modhtanmay/JavaScript-Algorithms-and-DataStructures/tree/master/06.%20Basic%20Algorithm%20Scripting)
-* [Object Oriented Programming.]
-* [Functional Programming.]
-* [Intermediate Algorithm Scripting.]
-* [JavaScript Algorithms and Data Structures Projects.]
+* [Object Oriented Programming.](#)
+* [Functional Programming.](#)
+* [Intermediate Algorithm Scripting.](#)
+* [JavaScript Algorithms and Data Structures Projects.](#)
 
 ##  [Basic JavaScript](https://github.com/modhtanmay/JavaScript-Algorithms-and-DataStructures/tree/master/01.%20Basic%20Javascript)
 JavaScript is a scripting language you can use to make web pages interactive. It is one of the core technologies of the web, along with HTML and CSS, and is supported by all modern browsers.
