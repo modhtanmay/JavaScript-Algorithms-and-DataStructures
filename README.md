@@ -55,3 +55,8 @@ An algorithm is a series of step-by-step instructions that describe how to do so
 To write an effective algorithm, it helps to break a problem down into smaller parts, and think carefully about how to solve each part with code.
 
 In this course, you'll learn the fundamentals of algorithmic thinking by writing algorithms that do everything from converting temperatures to handling complex 2D arrays.
+
+## Object Oriented Programming
+OOP, or Object Oriented Programming, is one of the major approaches to the software development process. In OOP, objects and classes are used to organize code to describe things and what they can do.
+
+In this course, you'll learn the basic principles of OOP in JavaScript including the this keyword, prototype chains, constructors, and inheritance.
