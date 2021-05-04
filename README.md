@@ -10,12 +10,12 @@ Once you have the fundamentals down, you'll apply that knowledge by creating alg
 Along the way, you'll also learn two important programing styles or paradigms: Object Oriented Programing (OOP), and Functional Programing (FP).
 
 # Modules
-* [Basic JavaScript.](https://github.com/modhtanmay/JavaScript-Algorithms-and-DataStructures/tree/master/06.%20Basic%20Algorithm%20Scripting)
-* [ECMAScript 6.](https://github.com/modhtanmay/JavaScript-Algorithms-and-DataStructures/tree/master/06.%20Basic%20Algorithm%20Scripting)
-* [Regular Expressions.](https://github.com/modhtanmay/JavaScript-Algorithms-and-DataStructures/tree/master/06.%20Basic%20Algorithm%20Scripting)
-* [Debugging.](https://github.com/modhtanmay/JavaScript-Algorithms-and-DataStructures/tree/master/06.%20Basic%20Algorithm%20Scripting)
+* [Basic JavaScript.](https://github.com/modhtanmay/JavaScript-Algorithms-and-DataStructures/tree/master/01.%20Basic%20Javascript)
+* [ECMAScript 6.](https://github.com/modhtanmay/JavaScript-Algorithms-and-DataStructures/tree/master/02.%20ES6)
+* [Regular Expressions.](https://github.com/modhtanmay/JavaScript-Algorithms-and-DataStructures/tree/master/03.%20Regular%20Expressions)
+* [Debugging.](https://github.com/modhtanmay/JavaScript-Algorithms-and-DataStructures/tree/master/04.%20Debugging)
 * [Basic Data Structures.](https://github.com/modhtanmay/JavaScript-Algorithms-and-DataStructures/tree/master/05.%20Basic%20Data%20Structures)
-* [Basic Algorithm Scripting.](https://github.com/modhtanmay/JavaScript-Algorithms-and-DataStructures/tree/master/05.%20Basic%20Data%20Structures)
+* [Basic Algorithm Scripting.](https://github.com/modhtanmay/JavaScript-Algorithms-and-DataStructures/tree/master/06.%20Basic%20Algorithm%20Scripting)
 * [Object Oriented Programming.]
 * [Functional Programming.]
 * [Intermediate Algorithm Scripting.]
