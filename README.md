@@ -16,7 +16,7 @@ Along the way, you'll also learn two important programing styles or paradigms: O
 * [Debugging.](https://github.com/modhtanmay/JavaScript-Algorithms-and-DataStructures/tree/master/04.%20Debugging)
 * [Basic Data Structures.](https://github.com/modhtanmay/JavaScript-Algorithms-and-DataStructures/tree/master/05.%20Basic%20Data%20Structures)
 * [Basic Algorithm Scripting.](https://github.com/modhtanmay/JavaScript-Algorithms-and-DataStructures/tree/master/06.%20Basic%20Algorithm%20Scripting)
-* [Object Oriented Programming.](#)
+* [Object Oriented Programming.](https://github.com/modhtanmay/JavaScript-Algorithms-and-DataStructures/tree/master/07.%20Object%20Oriented%20Programming)
 * [Functional Programming.](#)
 * [Intermediate Algorithm Scripting.](#)
 * [JavaScript Algorithms and Data Structures Projects.](#)
@@ -57,7 +57,7 @@ To write an effective algorithm, it helps to break a problem down into smaller p
 
 In this course, you'll learn the fundamentals of algorithmic thinking by writing algorithms that do everything from converting temperatures to handling complex 2D arrays.
 
-## Object Oriented Programming
+## [Object Oriented Programming](https://github.com/modhtanmay/JavaScript-Algorithms-and-DataStructures/tree/master/07.%20Object%20Oriented%20Programming)
 OOP, or Object Oriented Programming, is one of the major approaches to the software development process. In OOP, objects and classes are used to organize code to describe things and what they can do.
 
 In this course, you'll learn the basic principles of OOP in JavaScript including the this keyword, prototype chains, constructors, and inheritance.
